@@ -1,0 +1,23 @@
+# Ignore Mac system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE specific files
+.vscode/
+.idea/
